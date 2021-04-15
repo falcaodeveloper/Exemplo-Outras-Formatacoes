@@ -1,2 +1,2 @@
 # outras-formatacoes
- Outras formatações em HTML5
+Exemplo de outras formatações em HTML5.
